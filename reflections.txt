@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+This project is straightforward.
+The last line reference number '1', I wasn't able to find a similar style that make number align on top left. I used order list to make it. I wonder if there is a specific element for that kind of figure.
